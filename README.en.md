@@ -27,6 +27,7 @@ Here, "persona distillation" mainly refers to extracting expressive style, decis
 
 - [anti-distill](https://github.com/leilei926524-tech/anti-distill) - For skill delivery scenarios, separates publicly distributable skill content from private experience backups.
 - [数字人生.skill](https://github.com/wildbyteai/digital-life) - Distills a structured self-portrait from the recurring digital traces a person leaves across everyday tools.
+- [Forge Skill](https://github.com/YIKUAIBANZI/forge-skill) - Splits self-distillation and other-persona distillation into separate workflows for reflection, memory preservation, and persona-driven dialogue.
 - [永生.skill](https://github.com/agenmod/immortal-skill) - Organizes multidimensional digital persona profiles based on chat logs and related materials.
 - [女娲.skill](https://github.com/alchaincyf/nuwa-skill) - Distills reusable skills from an individual's mental models, decision heuristics, and expression patterns.
 - [自己.skill](https://github.com/notdog1998/yourself-skill) - Organizes personal conversations and records into an assistant for self-distillation.
@@ -37,12 +38,15 @@ Here, "persona distillation" mainly refers to extracting expressive style, decis
 - [同事.skill](https://github.com/titanwings/colleague-skill) - Organizes the work context, habits, and communication style of former colleagues from team materials.
 - [师兄.skill](https://github.com/zhanghaichao520/senpai-skill) - Distills how senior lab members mentor others and handle emergencies from research group materials.
 - [导师.skill](https://github.com/ybq22/supervisor) - Turns a supervisor's advising style into a mentor assistant for students and educators.
+- [大学老师.skill](https://github.com/CommitHu502Craft/professor-skill) - Organizes course materials and professor style into review priorities, exam patterns, and grading hints.
 
 ## Intimate Relationships and Family Memories
 
 - [暗恋对象.skill](https://github.com/xiaoheizi8/crush-skills) - Distills conversational style from chats, photos, and social traces for personal reflection and recollection.
+- [恋爱训练营.skill](https://github.com/TammyTan516/relationship-training-skill) - Simulates a crush's communication style from chat history so users can practice expression, invitations, and repair conversations in a safe sandbox.
 - [前任.skill](https://github.com/therealXiaomanChu/ex-skill) - Organizes speaking style and shared memories from private records for remembrance and reflection.
 - [父母.skill](https://github.com/xiaoheizi8/parents-skills) - Distills parents' tone, habits, and family memories from personal materials.
+- [MamaSkill](https://github.com/jiangziyan-693/MamaSkill) - Organizes chat logs, letters, and voice notes into a commemorative family companion for remembering a loved one.
 - [Reunion Skill](https://github.com/yangdongchen66-boop/reunion-skill) - Builds a locally running commemorative companion assistant from the digital relics of deceased relatives or friends.
 
 ## Public Figures and Methodological Perspectives
@@ -51,16 +55,29 @@ Here, "persona distillation" mainly refers to extracting expressive style, decis
 - [马斯克.skill](https://github.com/alchaincyf/elon-musk-skill) - Distills Elon Musk's first-principles thinking and product mindset into a reusable decision framework.
 - [费曼.skill](https://github.com/alchaincyf/feynman-skill) - Distills Richard Feynman's explanatory style and truth-seeking heuristics into a reusable framework.
 - [户晨风.skill](https://github.com/Janlaywss/hu-chenfeng-skill) - Distills Hu Chenfeng's consumer realism perspective for analyzing purchases, cities, and career choices.
+- [童锦程.skill](https://github.com/hotcoffeeshake/tong-jincheng-skill) - Distills Tong Jincheng's blunt heuristics for reading relationships and interpersonal dynamics.
 - [芒格.skill](https://github.com/alchaincyf/munger-skill) - Distills Charlie Munger's interdisciplinary mental models and decision heuristics into a reusable framework.
 - [纳瓦尔.skill](https://github.com/alchaincyf/naval-skill) - Distills Naval's frameworks on wealth, leverage, and judgment into a reusable perspective.
 - [乔布斯.skill](https://github.com/alchaincyf/steve-jobs-skill) - Distills Steve Jobs's product judgment, narrative style, and decision heuristics into a reusable framework.
 - [塔勒布.skill](https://github.com/alchaincyf/taleb-skill) - Distills Nassim Taleb's heuristics on antifragility and risk into a reusable framework.
 - [X 导师.skill](https://github.com/alchaincyf/x-mentor-skill) - Integrates the writing and growth playbooks of multiple social-platform creators into a unified mentor-style skill.
 - [张雪峰.skill](https://github.com/alchaincyf/zhangxuefeng-skill) - Distills Zhang Xuefeng's practical frameworks for education planning, exams, and career planning into a reusable perspective.
+- [PG.skill](https://github.com/alchaincyf/paul-graham-skill) - Distills Paul Graham's frameworks on startups, writing, and independent thinking into a reusable methodological perspective.
+- [张一鸣.skill](https://github.com/alchaincyf/zhang-yiming-skill) - Distills Zhang Yiming's product, organizational, and strategic judgment frameworks into a reusable perspective.
+- [Karpathy.skill](https://github.com/alchaincyf/karpathy-skill) - Distills Andrej Karpathy's thinking on AI engineering, education, and research into a reusable perspective.
+- [Ilya.skill](https://github.com/alchaincyf/ilya-sutskever-skill) - Distills Ilya Sutskever's judgment on scaling, research breakthroughs, and superintelligence into a reusable framework.
+- [MrBeast.skill](https://github.com/alchaincyf/mrbeast-skill) - Distills MrBeast's methods for content concepts, packaging, and audience retention into a reusable playbook.
+- [特朗普.skill](https://github.com/alchaincyf/trump-skill) - Distills Donald Trump's frameworks for negotiation, anchoring, and power analysis.
+- [峰哥亡命天涯 Skill](https://github.com/rottenpen/fengge-wangmingtianya-perspective) - Distills the "Fengge Wangming Tianya" style into a reality-first, stop-loss-oriented, darkly humorous reasoning framework.
+- [求是 Skill](https://github.com/HughYau/qiushi-skill) - Organizes fact-seeking, investigation, contradiction analysis, and strategic judgment tools distilled from Mao-related methodology.
+- [毛选.skill](https://github.com/leezythu/maoxuan-skill) - Distills contradiction analysis, base-building thinking, and strategic judgment frameworks from Mao's selected works.
+- [KarlMarx Skill](https://github.com/baojiachen0214/karlmarx-skill) - Distills structural analysis, contradiction analysis, and practice-based verification methods from Marxist methodology for deep problem analysis.
 
 ## Spiritual and Specialized Topics
 
 - [赛博算命 Skill](https://github.com/jinchenma94/bazi-skill) - Performs Four Pillars charting and analysis based on birth information and traditional destiny texts.
+- [月老 · 姻缘测算 Skills](https://github.com/Ming-H/yinyuan-skills) - Organizes relationship divination into a multi-mode traditional metaphysics skill covering matching, fortune sticks, and romance-luck readings.
+- [Numerologist Skills](https://github.com/FANzR-arch/Numerologist_skills) - Uses structured references and scripted constraints to organize specialized skills for Qimen Dunjia and Ziwei Doushu.
 - [Master-skill](https://github.com/xr843/Master-skill) - Organizes Han Chinese Buddhist teaching styles and explanatory perspectives based on Buddhist canonical literature.
 
 ## Contributing
